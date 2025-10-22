@@ -1,5 +1,5 @@
 import ButtonGradient from "./assets/svg/ButtonGradient";
-import { Header } from "./components/Header";
+import Header from "./components/Header";
 
 export function App() {
   return (
